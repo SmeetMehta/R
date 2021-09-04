@@ -20,3 +20,8 @@ Notes-
      5) max() - gives max in vector.
      6) min() - gives min in vector.
      7) if you compare a vector with a single value, the comparison will be done element by element.
+7) Vector indexing.
+     1) Indexing starts at 1.
+8) Matrix.
+     1) ![image](https://user-images.githubusercontent.com/59577058/132089874-4c0330f6-8a4c-452e-b612-9703b77fade2.png)
+
