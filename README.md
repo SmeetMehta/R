@@ -24,4 +24,6 @@ Notes-
      1) Indexing starts at 1.
 8) Matrix.
      1) ![image](https://user-images.githubusercontent.com/59577058/132089874-4c0330f6-8a4c-452e-b612-9703b77fade2.png)
+     2) ![image](https://user-images.githubusercontent.com/59577058/132090694-926ceec6-d951-4b3a-a700-713075e06adf.png)
+
 
