@@ -9,7 +9,7 @@ Notes-
 4) To create vectors a combine function "c()" is used.
 5) We can use combine function to give lables to vector as well. 
    
-  roll <- c(446,488,489,436)
+  > roll <- c(446,488,489,436)
   > names(roll)<- c("Smeet","Ambu","Gunjan","Shivam")
   > roll
    Smeet   Ambu Gunjan Shivam 
