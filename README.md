@@ -13,3 +13,9 @@ Notes-
      3)   name <- c("Smeet","Ambu","Gunjan","Shivam")
      4)   names(roll) <- name
 6) Vector functions.
+     1) sum() - gives sum of all elements.
+     2) prod() - gives product of all elements.
+     3) mean() - gives mean.
+     4) sd() - gives Standard deviation.
+     5) max() - gives max in vector.
+     6) min() - gives min in vector.
