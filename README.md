@@ -19,3 +19,4 @@ Notes-
      4) sd() - gives Standard deviation.
      5) max() - gives max in vector.
      6) min() - gives min in vector.
+     7) if you compare a vector with a single value, the comparison will be done element by element.
