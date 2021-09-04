@@ -26,6 +26,8 @@ Notes-
      1) ![image](https://user-images.githubusercontent.com/59577058/132089874-4c0330f6-8a4c-452e-b612-9703b77fade2.png)
      2) ![image](https://user-images.githubusercontent.com/59577058/132090694-926ceec6-d951-4b3a-a700-713075e06adf.png)
      3) For matrix multiplications ![image](https://user-images.githubusercontent.com/59577058/132090949-beb28ea9-d4c8-4ba2-a90f-af328b2ecb09.png)
+     4) rbind is to add rows. ![image](https://user-images.githubusercontent.com/59577058/132091102-73cc749e-ee17-43ae-b019-c081d0838cb4.png)
+
 
 
 
