@@ -7,7 +7,9 @@ Creating Data Frames -----------------------------------------------------------
 
 Selection And Indexing Dataframes-------------------------------------------------
 
-1) 
+1) ![image](https://user-images.githubusercontent.com/59577058/132390598-e7ab97a3-a960-4c9e-88b7-0447ad6d6096.png)
+ 
+The '$' sign returns a vector where as df['rain'] returns a data frame.
    
 
 
