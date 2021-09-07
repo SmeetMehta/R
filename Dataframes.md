@@ -1,2 +1,4 @@
-1) ![image](https://user-images.githubusercontent.com/59577058/132388836-0b363210-54da-418f-b875-330a6ff4b966.png)
+1) It shows the structure of the dataframe.
+    ![image](https://user-images.githubusercontent.com/59577058/132388944-fb8688dc-fbd3-45e2-82d1-0844cfe74b1a.png)
+2) 
 
