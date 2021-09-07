@@ -21,8 +21,9 @@ subset to get a specific value.
        so when we use df[,'temp'] a vector is returned which in return is passed in order function.
        
        
-       NOTE- here the same difference is noticed.
-       ![image](https://user-images.githubusercontent.com/59577058/132391923-559b5e76-b8b0-40d1-ba6c-a34ee8d350ca.png)
+ NOTE- here the same difference is noticed.
+       
+   ![image](https://user-images.githubusercontent.com/59577058/132391923-559b5e76-b8b0-40d1-ba6c-a34ee8d350ca.png)
 
 
 
