@@ -24,6 +24,12 @@ subset to get a specific value.
  NOTE- here the same difference is noticed.
        
    ![image](https://user-images.githubusercontent.com/59577058/132391923-559b5e76-b8b0-40d1-ba6c-a34ee8d350ca.png)
+   
+   
+4) For Descending Order use the following:- 
+
+      ![image](https://user-images.githubusercontent.com/59577058/132392602-e5b99ba3-432d-4d29-9cba-b9502236d822.png)
+
 
 
 
