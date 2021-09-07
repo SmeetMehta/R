@@ -11,5 +11,13 @@ Selection And Indexing Dataframes-----------------------------------------------
  
 The '$' sign returns a vector where as df['rain'] returns a data frame.
    
+2) ![image](https://user-images.githubusercontent.com/59577058/132391292-ae831b1f-cba4-49e3-9a67-9e0bbce1075a.png)
+
+subset to get a specific value.
+
+3) ![image](https://user-images.githubusercontent.com/59577058/132391365-eb115799-da88-4f41-94b0-4e29dfc2667a.png)
+ 
+ NOTE- the line after displaying df did not work becuase. 'order' function accepts vector as an argument
+       so when we use df[,'temp'] a vector is returned which in return is passed in order function.
 
 
