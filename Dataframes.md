@@ -50,6 +50,11 @@ Adding columns in Data Frame
 
 ![image](https://user-images.githubusercontent.com/59577058/132470519-be6eb8ee-d9fe-4247-8d4e-2ed51431d56b.png)
 
+Renaming column names
+
+![image](https://user-images.githubusercontent.com/59577058/132471244-51804b41-66ce-4eea-b4e2-76086c6a200f.png)
+
+
 
 
 
