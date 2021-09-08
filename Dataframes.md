@@ -73,6 +73,10 @@ Checking for missing values:-
 line 3 is used to replace any missing value with 0
 line 6 is used to raplace any missign value in "new alpha" row with 0
 
+replace the null values in 'new' columns with mean values of that column
+![image](https://user-images.githubusercontent.com/59577058/132475554-2fde3540-de3f-432a-ab29-6ea98c13d204.png)
+
+
 
 
 
