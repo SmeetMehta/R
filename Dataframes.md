@@ -66,6 +66,13 @@ Conditions in R
 
 ![image](https://user-images.githubusercontent.com/59577058/132473832-ca80282c-00dc-420d-8bab-fed317121271.png)
 
+Checking for missing values:-
+
+![image](https://user-images.githubusercontent.com/59577058/132475164-a6c72913-8f1f-4c2f-ae98-2ba333113af2.png)
+
+line 3 is used to replace any missing value with 0
+line 6 is used to raplace any missign value in "new alpha" row with 0
+
 
 
 
