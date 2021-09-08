@@ -9,5 +9,8 @@ res <- lapply(v,ra) # will return a list
 print(res)
 
 
-res <- sapply(v,ra) # will return a vector or list(whatever is used in input)
+res <- sapply(v,ra) # will return a vector or list (whatever is used in input)
 print(res)
+
+result <- sapply(v,function(num){num*2}) # Anonymous function
+print(result)
