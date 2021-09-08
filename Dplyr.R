@@ -16,3 +16,7 @@ mutate(flights,delay_time=arr_delay-dep_delay)
 # to add a new column which uses the preexisting columns' data and return whole data frame
 transmute(flights,delay_time=arr_delay-dep_delay)
 # Transmute will return only the new column.
+
+summarise(flights,avg_time=mean(air_time,na.rm=T))
+# here we have created a variable avg_time to store mean of air_time. 
+# NOTE- the 'na.rm=T' is a part of mean funtion which basically means if there are any null values remove them.
