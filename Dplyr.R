@@ -9,3 +9,5 @@ arrange(flights,year,desc(month),day,air_time) # this will arrange everything in
 select(flights,year,month,day) #this will select the given columns
 
 rename(flights,YEAR=year) # to rename any column easily. 'YEAR' is new name and 'year' is the old name.
+
+distinct(select(flights,month)) # will return all the distinct values.
