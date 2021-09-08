@@ -42,6 +42,11 @@ Data Frame functions -----------------------------------------------------------
 
 ![image](https://user-images.githubusercontent.com/59577058/132467612-0ddfc7c6-2f4d-493d-82ef-720badee92f9.png)
 
+Adding rows to Data frame
+
+![image](https://user-images.githubusercontent.com/59577058/132469376-6e17cb7e-f209-44ca-affa-15c3c8ec954a.png)
+
+
 
 
 
