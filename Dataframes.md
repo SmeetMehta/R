@@ -54,6 +54,15 @@ Renaming column names
 
 ![image](https://user-images.githubusercontent.com/59577058/132471244-51804b41-66ce-4eea-b4e2-76086c6a200f.png)
 
+select all the rows except 2:- 
+
+![image](https://user-images.githubusercontent.com/59577058/132472996-896a9911-11ec-4622-b4e1-c57bd494a8e6.png)
+
+conditional selection 
+
+![image](https://user-images.githubusercontent.com/59577058/132473062-6a002c2c-83e9-469b-b20d-c8ca2e04de0c.png)
+
+
 
 
 
