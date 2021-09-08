@@ -9,4 +9,9 @@ sort(v,decreasing =T) # to sort a given vector in decreadsing order.
 
 rev(v) # to reverse the elements of the given vector
 
+v1 <- 11:20
+append(v,v1) # will append the 2 vectors 
+
+is.vector(v) # this will return TRUE.
+# there are several 'is.' functions
 
