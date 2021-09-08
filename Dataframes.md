@@ -62,6 +62,11 @@ conditional selection
 
 ![image](https://user-images.githubusercontent.com/59577058/132473062-6a002c2c-83e9-469b-b20d-c8ca2e04de0c.png)
 
+Conditions in R
+
+![image](https://user-images.githubusercontent.com/59577058/132473832-ca80282c-00dc-420d-8bab-fed317121271.png)
+
+
 
 
 
