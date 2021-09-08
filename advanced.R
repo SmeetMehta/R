@@ -15,3 +15,5 @@ append(v,v1) # will append the 2 vectors
 is.vector(v) # this will return TRUE.
 # there are several 'is.' functions
 
+as.list(v) # this will covert the vector into another type.
+
