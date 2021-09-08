@@ -14,3 +14,8 @@ print(res)
 
 result <- sapply(v,function(num){num*2}) # Anonymous function
 print(result)
+
+add_c <- function(num,ch){  # Function with multiple input
+  return(num+ch)
+}
+print(sapply(v, add_c,ch=100)) # multiple inputs can be given in form of additional aruments in sapply
