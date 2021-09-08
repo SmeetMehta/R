@@ -14,3 +14,13 @@ library(data.table)
  g_df <- gather(df,Quater,Revenue,Q1:Q4) 
 ## this will gather Q1 to Q4 and make 2 columns Quater and Revenue
  print(g_df)
+
+df <- data.frame(x=c(NA,'a-x','b-y','c-z'))
+sep <- separate(df,x,c('abc','xyz'),'-')
+# this will seperate the 'x' column into 'abc' and 'xyz' but the seperator '-'
+
+unite(sep,new_col,abc,xyz,sep = '---')
+# this will unite the 'abc' and 'xyz' into 'new_col' from 'sep' dataframe, and with '---'
+
+
+
