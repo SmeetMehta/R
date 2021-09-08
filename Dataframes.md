@@ -46,6 +46,11 @@ Adding rows to Data frame
 
 ![image](https://user-images.githubusercontent.com/59577058/132469376-6e17cb7e-f209-44ca-affa-15c3c8ec954a.png)
 
+Adding columns in Data Frame
+
+![image](https://user-images.githubusercontent.com/59577058/132470519-be6eb8ee-d9fe-4247-8d4e-2ed51431d56b.png)
+
+
 
 
 
