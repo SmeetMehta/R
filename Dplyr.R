@@ -7,3 +7,5 @@ arrange(flights,year,month,day,air_time)
 arrange(flights,year,desc(month),day,air_time) # this will arrange everything in ascending order except month
 
 select(flights,year,month,day) #this will select the given columns
+
+rename(flights,YEAR=year) # to rename any column easily. 'YEAR' is new name and 'year' is the old name.
