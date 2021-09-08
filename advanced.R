@@ -7,4 +7,6 @@ sort(v)  # to sort a given vector.
 print("Sorted v in decreasing order")
 sort(v,decreasing =T) # to sort a given vector in decreadsing order.
 
+rev(v) # to reverse the elements of the given vector
+
 
