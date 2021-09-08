@@ -11,3 +11,8 @@ select(flights,year,month,day) #this will select the given columns
 rename(flights,YEAR=year) # to rename any column easily. 'YEAR' is new name and 'year' is the old name.
 
 distinct(select(flights,month)) # will return all the distinct values.
+
+mutate(flights,delay_time=arr_delay-dep_delay) 
+# to add a new column which uses the preexisting columns' data and return whole data frame
+transmute(flights,delay_time=arr_delay-dep_delay)
+# Transmute will return only the new column.
